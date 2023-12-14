@@ -1,0 +1,171 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+    <meta name="payok" content="payok_verification">
+	<!-- Meta -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="shortcut icon" href="../favicon_105.ico" type="image/x-icon">
+
+    <!-- Title -->
+    <title>Ошибка #404</title>
+    
+    <!-- Other -->
+    <meta name="description" content="Скачать самп чтобы играть на серверах лучшего проекта GTA San Andreas Online - Arizona РП. Для того что бы начать в самп играть следуйте инструкциям на этой странице. Samp Role Play Arizona является самым популярным проектом. У нас можно скачивать самп для игры на сервер Arizona РП.">
+	<script src="../js/jquery-2.2.4.min.js"></script>
+
+<link href="//fonts.googleapis.com/css?family=Montserrat:300,400,700&amp;amp;subset=cyrillic" rel="stylesheet">
+<link href="../css/animate.css" rel="stylesheet">
+<link href="../css/reset.css" rel="stylesheet">
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link href="../css/owl.carousel.min.css" rel="stylesheet">
+<link href="../css/style-less.css" rel="stylesheet">
+<link href="../css/responsive.css" rel="stylesheet">
+<link href="../css/jquery.fancybox.min.css" rel="stylesheet">
+<script src="../js/jquery.min.js"></script>
+    <style>
+		.help-block-error{display:none;color:red;font-size:14px;padding-top:10px}
+		.has-error > .help-block{display:block}
+		.map-container{position:relative;margin: 0 auto;background-image:url(samap_1280_105.jpg);background-size:contain}
+		.map-icon{position:absolute;width:16px;height:16px}
+		.map-setting {color: #a4a4a4;font-size: 15px}
+		.map-setting:after,.map-setting:before{content: " ";display: table}
+		.map-setting .list{width: 100px;text-align: right;position: relative;float: right}
+		.map-setting span {display: inline-block;margin-bottom: 15px;cursor: pointer}
+		.map-setting ul {display:none;list-style:none;position:absolute;width:250px;text-align:left;top:30px;right:0;background:#272727;padding:15px;z-index:100}
+		.map-setting li {padding:7px 10px;cursor:default}
+		.map-setting li input {float:right;cursor:pointer}
+		.alert > .close,.members-list > .close{font-size:20px}
+
+		.alert{border-radius:0;font-size:15px}
+		.alert-success{color:#46e66a;background-color:transparent;border-color:#46e66a}
+		.alert-danger{color:#e64646;background-color:transparent;border-color:#e64646}
+		.alert-info{color:#45e4ff;background-color:transparent;border-color:#45e4ff}
+
+		.pagination{display:flex;justify-content:center}
+		.pagination > li{background:rgba(26,26,31,0.34);display:inline-block;border-radius:5px;line-height:40px;width:40px;margin:0 4px}
+		.pagination > li > a {color:#51547f}	
+		.pagination > li.active > a {color:#979bdc}
+		.pagination > li.disabled > span {color:#30324c}
+		.news-list-in-news > div .n-preview img{opacity:0.7}
+		.money-items-grid > div .m-img > img{max-height:95%}
+
+		#up-btn{position:fixed;cursor:pointer;right:30px;bottom:30px;background:#51547f;border:0;padding:10px 15px;border-radius:5px;font-size:15px;display:none;z-index:1001}
+	</style>
+</head>
+<body>
+	
+	<i class="mobile-menu" data-toggle="modal" data-target="#mainmenumodal"><img src="../fonts/list-menu.svg" alt></i>
+
+<div id="headershort" class="shop">
+    <div class="container">
+        <div class="header">
+            
+			<div class="topline">
+	<a href="/" class="logo"><img src="../fonts/logo.svg" alt></a>
+	<ul class="main-menu">
+		<li><a href="/">Главная</a></li>
+<li><a href="/news">Новости</a></li>
+<li><a href="/howtostart">Как начать игру?</a></li>
+<li><a href="//forum.rp-arena.ru">Форум</a></li>
+<li><a href="/donate">Магазин</a></li>
+<!--<li><a href="https://forum.rp-arena.com/index.php?threads/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.256/">Пользовательское соглашение</a></li>-->
+<!--<li><a href="/auction">Аукционы</a></li>-->
+	</ul>
+	<a href="login" class="primary-but">Кабинет</a>
+</div>
+
+        </div>
+	</div>
+</div>
+    <div class="container">
+        <p class="b-title">Ошибка</p>
+        <div style="margin-bottom:20px">
+    		<h4>Not Found (#404)</h4>
+    		Страница не найдена.        </div> 
+    </div>	
+<div id="footer">
+		<div class="container">
+			<div class="footer-cube">
+				<div>
+					<p class="copyright"><strong>ARENA GAMES © 2022</strong></p>
+					<p style="font-size: 14px">Все права защищены.<br>Любое копирование материала запрещено!</p>
+					<p style="font-size: 13px">
+						<a style="color: white" href="https://rp-arena.ru/policy">Политика конфиденциальности</a>
+						<br>
+						<a style="color: white" href="https://rp-arena.ru/terms">Пользовательское соглашение</a>
+						<br>
+						<a style="color: white" href="vova4lvl@mail.ru"><span class="__cf_email__" data-cfemail="d7a1b8a1b6e3bba1bb97bab6bebbf9a5a2">[email&#160;protected]</span></a>
+					</p>
+					<div style="display: grid; grid-template-columns: repeat(2, 30px); grid-column-gap: 10px">
+						<style>.share-link { width: 30px; height: 30px; border-radius: 4px; display: flex; justify-content: center; align-items: center }</style>
+						<a target="_blank" class="share-link" style="background-color: #45668e" href="https://vk.com/share.php?url=https://arizona-games.com&image=https://sun1-21.userapi.com/c853516/v853516853/1ae3a3/CB1EEw8uBYo.jpg&title=SAMP: Играть в GTA SA Онлайн → Скачать САМП и Начать Игру | 24/7 | Arizona RP">
+							<svg style="fill: white; width: 15px; height: 15px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z"/></svg>
+						</a>
+						<a target="_blank" class="share-link" style="background-color: #3b5998" href="https://www.facebook.com/sharer.php?u=https://arizona-games.com/">
+							<svg style="fill: white; width: 15px; height: 15px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg>
+						</a>
+					</div>
+				</div>
+				<div style="display: flex; flex-direction: column; align-items: center">
+					<a href="/maps" class="map-go">
+						<p>Карты<br>штатов</p>
+					</a>
+					<a href="/donate" style="margin-top: 25px">
+						<img src="payment-systems.png" alt>
+					</a>
+				</div>
+				<div>
+					<p style="font-size: 12px; color: white">Контакты:<br>E-Mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cfb9a0b9aefba3b9a38fa2aea6a3e1bdbae1aca0a2">[email&#160;protected]</a><br>Форум: forum.rp-arena.ru</p>
+					<div id="vk_official"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal fade" id="mainmenumodal" tabindex="-1" role="dialog" aria-labelledby="mainmenumodallabel" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<ul class="main-menu modalk">
+					<li><a href="/">Главная</a></li>
+<li><a href="/news">Новости</a></li>
+<li><a href="/howtostart">Как начать игру?</a></li>
+<li><a href="//forum.rp-arena.ru">Форум</a></li>
+<li><a href="/donate">Магазин</a></li>
+<li><a href="/auction">Аукционы</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<button id="up-btn">Наверх</button>
+
+	<script data-cfasync="false" src="../js/email-decode.min.js"></script><script>
+		var btnUp = document.getElementById('up-btn');
+		window.onscroll = function() {
+			var offset = window.pageYOffset;
+			if(offset > window.innerHeight) {
+				btnUp.style.display = 'inline';
+			}
+			else {
+				btnUp.style.display = 'none';
+			}
+		}
+		btnUp.onclick = function() {
+			jQuery('html').animate({scrollTop:0},100);
+		}
+	</script>
+    <script async src="https://usocial.pro/usocial/usocial.js?v=6.1.4" data-script="usocial" charset="utf-8"></script>
+	<script async="async" src="https://userapi.com/js/api/openapi.js?20" onload="VK.Widgets.Group("vk_official", {mode: 1, width: 250, color1: 303038, color2: -1}, 119585831);">
+
+</script>
+
+<script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/owl.carousel.min.js"></script>
+<script src="../js/jquery.fancybox.min.js"></script>
+<script src="../js/script.js"></script>
+
+
+</body>
+</html>
